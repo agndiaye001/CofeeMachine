@@ -1,0 +1,8 @@
+Value (P)  | Price (P)
++------------+------------+
+| Café noir  | 30         |
+ | | Café au lait  | 25         |
+ | | Thé | 20         |
+ | | Chocolat au lait | 35         |
+ | | Cappuccino | 40         |
+ | +------------+------------+
